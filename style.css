@@ -1,0 +1,136 @@
+#container {
+    width: 80%;
+    max-width: 800px;
+    column-count: 4;
+    background: white;
+    column-rule: 0;
+    margin: 5rem auto;
+}
+
+.box {
+    width: calc(100% - 2rem);
+    margin-bottom: 1rem;
+    color: black;
+    border: 2px solid;
+    padding-top: 100%;
+    position: relative;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+.box .contents {
+    visibility: hidden;
+    width: 100px;
+}
+
+#box_0 {
+    color: black;
+    border: 2px solid;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+#box_1 {
+    color: black;
+    border: 2px solid;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+#box_2 {
+    color: black;
+    border: 2px solid;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+#box_3 {
+    color: black;
+    border: 2px solid;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+#box_4 {
+    color: black;
+    border: 2px solid;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+#box_5 {
+    color: black;
+    border: 2px solid;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+#box_6 {
+    color: black;
+    border: 2px solid;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+#box_7 {
+    color: black;
+    border: 2px solid;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+#box_8 {
+    color: black;
+    border: 2px solid;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+#box_9 {
+    color: black;
+    border: 2px solid;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+#box_10 {
+    color: black;
+    border: 2px solid;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+#box_11 {
+    color: black;
+    border: 2px solid;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+#box_12 {
+    color: black;
+    border: 2px solid;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+#box_13 {
+    color: black;
+    border: 2px solid;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+#box_14 {
+    color: black;
+    border: 2px solid;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+#box_15 {
+    color: black;
+    border: 2px solid;
+    padding: 1rem;
+    border-radius: 10px;
+}
